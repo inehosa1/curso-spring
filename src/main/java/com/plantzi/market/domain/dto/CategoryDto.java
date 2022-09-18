@@ -5,7 +5,6 @@ public class CategoryDto {
     private String description;
     private Boolean active;
 
-
     public Integer getCategoryId() {
         return categoryId;
     }
